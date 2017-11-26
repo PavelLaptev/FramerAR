@@ -1497,118 +1497,8 @@
         "centerAnchorY" : 1.3293333333333333,
         "children" : [
           {
-            "__class" : "TextNode",
-            "autoSize" : false,
-            "blendingEnabled" : 0,
-            "blendingMode" : "normal",
-            "blur" : 12,
-            "blurEnabled" : 0,
-            "blurType" : "layer",
-            "bottom" : 127,
-            "brightness" : 100,
-            "brightnessEnabled" : 0,
-            "centerAnchorX" : 0.5013333333333333,
-            "centerAnchorY" : 0.73604826546003022,
-            "constraintsLocked" : false,
-            "contrast" : 100,
-            "contrastEnabled" : 0,
-            "editable" : false,
-            "exportOptions" : [
-
-            ],
-            "grayscale" : 0,
-            "grayScaleEnabled" : 0,
-            "height" : 96,
-            "heightFactor" : null,
-            "hueRotate" : 0,
-            "hueRotateEnabled" : 0,
-            "id" : ":!XiVDSv",
-            "invert" : 0,
-            "invertEnabled" : 0,
-            "left" : 43,
-            "locked" : false,
-            "name" : "rotateText",
-            "opacity" : 1,
-            "parentid" : "4dQ}JoT]",
-            "right" : 42,
-            "rotation" : 0,
-            "saturate" : 100,
-            "saturateEnabled" : 0,
-            "sepia" : 0,
-            "sepiaEnabled" : 0,
-            "shadows" : [
-
-            ],
-            "styledText" : {
-              "__class" : "StyledTextDraft",
-              "blocks" : [
-                {
-                  "data" : {
-                    "emptyStyle" : [
-                      "LETTERSPACING:0",
-                      "LINEHEIGHT:1.2",
-                      "COLOR:hsl(0, 0%, 100%)",
-                      "ALIGN:center",
-                      "SIZE:36",
-                      "FONT:Arvo"
-                    ]
-                  },
-                  "depth" : 0,
-                  "entityRanges" : [
-
-                  ],
-                  "inlineStyleRanges" : [
-                    {
-                      "length" : 25,
-                      "offset" : 0,
-                      "style" : "LETTERSPACING:0"
-                    },
-                    {
-                      "length" : 25,
-                      "offset" : 0,
-                      "style" : "LINEHEIGHT:1.2"
-                    },
-                    {
-                      "length" : 25,
-                      "offset" : 0,
-                      "style" : "COLOR:hsl(0, 0%, 100%)"
-                    },
-                    {
-                      "length" : 25,
-                      "offset" : 0,
-                      "style" : "ALIGN:center"
-                    },
-                    {
-                      "length" : 25,
-                      "offset" : 0,
-                      "style" : "SIZE:36"
-                    },
-                    {
-                      "length" : 25,
-                      "offset" : 0,
-                      "style" : "FONT:Arvo"
-                    }
-                  ],
-                  "key" : "279uo",
-                  "text" : "Please rotate your device",
-                  "type" : "unstyled"
-                }
-              ],
-              "entityMap" : {
-
-              }
-            },
-            "targetName" : "rotateText_1",
-            "top" : null,
-            "visible" : true,
-            "width" : 290,
-            "widthFactor" : null,
-            "x" : 106,
-            "y" : 545
-          },
-          {
-            "__class" : "ImageNode",
-            "aspectRatioLocked" : true,
+            "__class" : "RectangleNode",
+            "aspectRatioLocked" : false,
             "blendingEnabled" : 0,
             "blendingMode" : "normal",
             "blur" : 12,
@@ -1623,16 +1513,198 @@
             "borderStyle" : "solid",
             "borderTop" : 1,
             "borderWidth" : 1,
-            "bottom" : null,
+            "bottom" : 127,
             "boxShadows" : [
 
             ],
             "brightness" : 100,
             "brightnessEnabled" : 0,
-            "centerAnchorX" : 0.5013333333333333,
-            "centerAnchorY" : 0.41704374057315236,
+            "centerAnchorX" : 0.496,
+            "centerAnchorY" : 0.53092006033182504,
             "children" : [
+              {
+                "__class" : "ImageNode",
+                "aspectRatioLocked" : true,
+                "blendingEnabled" : 0,
+                "blendingMode" : "normal",
+                "blur" : 12,
+                "blurEnabled" : 0,
+                "blurType" : "layer",
+                "borderBottom" : 1,
+                "borderColor" : "#222",
+                "borderEnabled" : 0,
+                "borderLeft" : 1,
+                "borderPerSide" : false,
+                "borderRight" : 1,
+                "borderStyle" : "solid",
+                "borderTop" : 1,
+                "borderWidth" : 1,
+                "bottom" : null,
+                "boxShadows" : [
 
+                ],
+                "brightness" : 100,
+                "brightnessEnabled" : 0,
+                "centerAnchorX" : 0.50840336134453779,
+                "centerAnchorY" : 0.26766304347826086,
+                "children" : [
+                  {
+                    "__class" : "TextNode",
+                    "autoSize" : false,
+                    "blendingEnabled" : 0,
+                    "blendingMode" : "normal",
+                    "blur" : 12,
+                    "blurEnabled" : 0,
+                    "blurType" : "layer",
+                    "bottom" : -196,
+                    "brightness" : 100,
+                    "brightnessEnabled" : 0,
+                    "centerAnchorX" : 0.5,
+                    "centerAnchorY" : 2.0068027210884352,
+                    "constraintsLocked" : false,
+                    "contrast" : 100,
+                    "contrastEnabled" : 0,
+                    "editable" : false,
+                    "exportOptions" : [
+
+                    ],
+                    "grayscale" : 0,
+                    "grayScaleEnabled" : 0,
+                    "height" : 96,
+                    "heightFactor" : null,
+                    "hueRotate" : 0,
+                    "hueRotateEnabled" : 0,
+                    "id" : ":!XiVDSv",
+                    "invert" : 0,
+                    "invertEnabled" : 0,
+                    "left" : -52,
+                    "locked" : false,
+                    "name" : "rotateText",
+                    "opacity" : 1,
+                    "parentid" : "0&#>kyI$",
+                    "right" : -52,
+                    "rotation" : 0,
+                    "saturate" : 100,
+                    "saturateEnabled" : 0,
+                    "sepia" : 0,
+                    "sepiaEnabled" : 0,
+                    "shadows" : [
+
+                    ],
+                    "styledText" : {
+                      "__class" : "StyledTextDraft",
+                      "blocks" : [
+                        {
+                          "data" : {
+                            "emptyStyle" : [
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "COLOR:hsl(0, 0%, 100%)",
+                              "ALIGN:center",
+                              "SIZE:36",
+                              "FONT:Arvo"
+                            ]
+                          },
+                          "depth" : 0,
+                          "entityRanges" : [
+
+                          ],
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 25,
+                              "offset" : 0,
+                              "style" : "LETTERSPACING:0"
+                            },
+                            {
+                              "length" : 25,
+                              "offset" : 0,
+                              "style" : "LINEHEIGHT:1.2"
+                            },
+                            {
+                              "length" : 25,
+                              "offset" : 0,
+                              "style" : "COLOR:hsl(0, 0%, 100%)"
+                            },
+                            {
+                              "length" : 25,
+                              "offset" : 0,
+                              "style" : "ALIGN:center"
+                            },
+                            {
+                              "length" : 25,
+                              "offset" : 0,
+                              "style" : "SIZE:36"
+                            },
+                            {
+                              "length" : 25,
+                              "offset" : 0,
+                              "style" : "FONT:Arvo"
+                            }
+                          ],
+                          "key" : "279uo",
+                          "text" : "Please rotate your device",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "entityMap" : {
+
+                      }
+                    },
+                    "targetName" : "rotateText_1",
+                    "top" : null,
+                    "visible" : true,
+                    "width" : 290,
+                    "widthFactor" : null,
+                    "x" : 106,
+                    "y" : 545
+                  }
+                ],
+                "clip" : false,
+                "constraintsLocked" : false,
+                "contrast" : 100,
+                "contrastEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "transparent",
+                "fillEnabled" : false,
+                "grayscale" : 0,
+                "grayScaleEnabled" : 0,
+                "height" : 147,
+                "heightFactor" : null,
+                "hueRotate" : 0,
+                "hueRotateEnabled" : 0,
+                "id" : "0&#>kyI$",
+                "image" : "2Y7nPHnW5MxwOvOsycrTrgLfeWwIM0SHwpzO35dsUIyb0C3uQwG4niK7Tj92l7TsAtCu2dT6XBLocMUxpeow.svg",
+                "imageBackgroundSize" : "Cover",
+                "intrinsicHeight" : 122,
+                "intrinsicWidth" : 155,
+                "invert" : 0,
+                "invertEnabled" : 0,
+                "left" : 28,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalFilename" : "Group 2.svg",
+                "parentid" : "T\/h,U0o.",
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : 24,
+                "rotation" : 0,
+                "saturate" : 100,
+                "saturateEnabled" : 0,
+                "sepia" : 0,
+                "sepiaEnabled" : 0,
+                "targetName" : "Image_1",
+                "top" : 25,
+                "visible" : true,
+                "width" : 186,
+                "widthFactor" : null
+              }
             ],
             "clip" : false,
             "constraintsLocked" : false,
@@ -1641,26 +1713,29 @@
             "exportOptions" : [
 
             ],
-            "fillColor" : "transparent",
-            "fillEnabled" : false,
+            "fillColor" : "rgba(0, 170, 255, 0)",
+            "fillEnabled" : true,
+            "fillGradient" : {
+              "__class" : "LinearGradient",
+              "alpha" : 1,
+              "angle" : 0,
+              "end" : "rgba(0,0,0,0)",
+              "start" : "black"
+            },
+            "fillType" : "color",
             "grayscale" : 0,
             "grayScaleEnabled" : 0,
-            "height" : 111,
+            "height" : 368,
             "heightFactor" : null,
             "hueRotate" : 0,
             "hueRotateEnabled" : 0,
-            "id" : "0&#>kyI$",
-            "image" : "2Y7nPHnW5MxwOvOsycrTrgLfeWwIM0SHwpzO35dsUIyb0C3uQwG4niK7Tj92l7TsAtCu2dT6XBLocMUxpeow.svg",
-            "imageBackgroundSize" : "Cover",
-            "intrinsicHeight" : 122,
-            "intrinsicWidth" : 155,
+            "id" : "T\/h,U0o.",
             "invert" : 0,
             "invertEnabled" : 0,
-            "left" : null,
+            "left" : 67,
             "locked" : false,
-            "name" : null,
+            "name" : "rotatebox",
             "opacity" : 1,
-            "originalFilename" : "Group 2.svg",
             "parentid" : "4dQ}JoT]",
             "radius" : 0,
             "radiusBottomLeft" : 0,
@@ -1668,16 +1743,16 @@
             "radiusPerCorner" : false,
             "radiusTopLeft" : 0,
             "radiusTopRight" : 0,
-            "right" : null,
+            "right" : 70,
             "rotation" : 0,
             "saturate" : 100,
             "saturateEnabled" : 0,
             "sepia" : 0,
             "sepiaEnabled" : 0,
-            "targetName" : "Image_1",
-            "top" : 221,
+            "targetName" : null,
+            "top" : null,
             "visible" : true,
-            "width" : 140,
+            "width" : 238,
             "widthFactor" : null
           }
         ],
