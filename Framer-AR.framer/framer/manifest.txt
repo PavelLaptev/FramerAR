@@ -22,7 +22,6 @@ framer/framer.generated.js
 framer/coffee-script.js
 framer/framer.init.js
 framer/framer.js
-prepros-6.config
 aframe/iframeAR.html
 aframe/models/london/framer-model-renew.mtl
 aframe/models/london/londontextureSurface_Color.jpg
