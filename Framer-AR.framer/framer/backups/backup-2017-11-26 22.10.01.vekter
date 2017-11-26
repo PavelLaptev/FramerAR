@@ -1630,7 +1630,7 @@
             "brightness" : 100,
             "brightnessEnabled" : 0,
             "centerAnchorX" : 0.5013333333333333,
-            "centerAnchorY" : 0.41704374057315236,
+            "centerAnchorY" : 0.40196078431372551,
             "children" : [
 
             ],
@@ -1645,7 +1645,7 @@
             "fillEnabled" : false,
             "grayscale" : 0,
             "grayScaleEnabled" : 0,
-            "height" : 111,
+            "height" : 147,
             "heightFactor" : null,
             "hueRotate" : 0,
             "hueRotateEnabled" : 0,
@@ -1675,9 +1675,9 @@
             "sepia" : 0,
             "sepiaEnabled" : 0,
             "targetName" : "Image_1",
-            "top" : 221,
+            "top" : 193,
             "visible" : true,
-            "width" : 140,
+            "width" : 186,
             "widthFactor" : null
           }
         ],
