@@ -1,0 +1,27 @@
+<html>
+
+<head>
+	<meta aframe-injected="" name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,shrink-to-fit=no,user-scalable=no">
+	<meta aframe-injected="" name="mobile-web-app-capable" content="yes">
+	<meta charset="UTF-8"></script>
+
+	<!-- <script src="seamless.child.js"></script> -->
+	<script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
+	<script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.5.0/aframe/build/aframe-ar.js"></script>
+</head>
+
+<body style='margin : 0px; overflow: hidden;'>
+	<a-scene embedded vr-mode-ui="enabled: false" arjs='trackingMethod: best; sourceType: webcam; debugUIEnabled: false;' >
+		<a-assets>
+			<a-asset-item id="framer-obj" src="https://raw.githubusercontent.com/PavelLaptev/test-rep/master/AR-Framer-meetup/3d-models/london/framer-model-renew.obj"></a-asset-item>
+			<a-asset-item id="framer-mtl" src="https://raw.githubusercontent.com/PavelLaptev/test-rep/master/AR-Framer-meetup/3d-models/london/framer-model-renew.mtl"></a-asset-item>
+		</a-assets>
+		<a-marker preset="hiro" id="aframe-scene">
+			<a-entity light="type: hemisphere; color: #fefddd; groundColor: #fefddd; intensity: 1.2"></a-entity>
+			<a-entity id="london" rotation="0 -90 0" side="double" position="0.0 0.2 0" scale="0.4 0.4 0.4" obj-model="obj: #framer-obj; mtl: #framer-mtl"></a-entity>
+		</a-marker>
+	<a-entity camera></a-entity>
+	</a-scene>
+</body>
+
+</html>

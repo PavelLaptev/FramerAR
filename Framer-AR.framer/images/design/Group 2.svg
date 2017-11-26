@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="122px" viewBox="0 0 155 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(-114.000000, -195.000000)">
+            <g id="Group-2" transform="translate(114.000000, 195.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="3" x="1.5" y="1.5" width="70" height="119" rx="10"></rect>
+                <circle id="Oval" fill="#FFFFFF" cx="37" cy="105" r="6"></circle>
+                <path d="M84.0791016,57 L143.319309,57 L143.319309,57 C148.842156,57 153.319309,61.4771525 153.319309,67 L153.319309,110.311432 L153.319309,110.311432 C153.319309,115.83428 148.842156,120.311432 143.319309,120.311432 L83.4429596,120.311432" id="Path-2" stroke="#FFFFFF" stroke-width="3" opacity="0.481148098" stroke-linecap="round"></path>
+                <g id="Group" opacity="0.482846467" transform="translate(91.000000, 13.000000)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round">
+                    <path d="M0.883789062,-3.65430342e-16 C10.5439292,-0.0341796875 22.6054687,6.46337891 22.3125,22.0336914" id="Path-3"></path>
+                </g>
+                <circle id="Oval-2" fill="#D8D8D8" opacity="0.340692935" cx="113.5" cy="35.5" r="5.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

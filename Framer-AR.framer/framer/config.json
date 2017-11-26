@@ -1,0 +1,23 @@
+{
+  "orientation" : 90,
+  "updateDelay" : 0.29999999999999999,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 375,
+  "contentScale" : 1,
+  "cachedDeviceWidth" : 667,
+  "fullScreen" : false,
+  "deviceType" : "apple-iphone-8-gold",
+  "sharedPrototype" : true,
+  "propertyPanelToggleStates" : {
+
+  },
+  "projectId" : "FC4D619D-51DA-4843-8385-DC8017CFFF90",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : true,
+  "foldedCodeRanges" : [
+    "{0, 1402}",
+    "{1403, 1293}"
+  ],
+  "deviceScale" : "fit"
+}
